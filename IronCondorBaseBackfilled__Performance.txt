@@ -1,0 +1,23 @@
+Number of trades : 1648
+Total No of Basket : 99
+Win percentage : 47.21
+Win Percentage of Bakset 39.39393939393939 
+TP Exit  Percentage : 0.0 
+BreakPoint Above Exit Percentage : 10.1010101010101 
+BreakPoint Below Exit Percentage : 0.0 
+Expiry Exit Percentage : 13.131313131313133 
+Net PnL : -30855.0
+No of winning trades : 778
+No of losing trades : 869
+Win % of Long trades : 12.62
+Win % of Short trades : 81.8
+Final Balance($) : 469145.0
+Average_gain(pips) : 971.51
+Average_loss(pip) : -905.28
+Average_gain($) : -58.0
+Average_loss($) : -905.28
+Avergain Gain of a Basket : 1675.4807692307693 
+Avergain Loss of a Basket : -1603.3125 
+Max Adjustment of the Basket : 36
+Profit factor : 0.96
+Sharpe ratio : -0.01
